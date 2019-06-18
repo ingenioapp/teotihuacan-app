@@ -1,44 +1,56 @@
 <ion-header>
-  <ion-toolbar>
-    <ion-buttons slot="start">
-      <ion-menu-button></ion-menu-button>
-    </ion-buttons>
-    <ion-title>
-      Home
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content>
-    <ion-card class="welcome-card">
-      <ion-img src="/assets/shapes.svg"></ion-img>
-      <ion-card-header>
-        <ion-card-subtitle>Get Started</ion-card-subtitle>
-        <ion-card-title>Welcome to Ionic</ion-card-title>
-      </ion-card-header>
-      <ion-card-content>
-        <p>Now that your app has been created, you'll want to start building out features and components. Check out some of the resources below for next steps.</p>
-      </ion-card-content>
-    </ion-card>
-    <ion-list lines="none">
-      <ion-list-header>
-        <ion-label>Resources</ion-label>
-      </ion-list-header>
-      <ion-item href="https://beta.ionicframework.com/docs/">
-        <ion-icon slot="start" color="medium" name="book"></ion-icon>
-        <ion-label>Ionic Documentation</ion-label>
-      </ion-item>
-      <ion-item href="https://beta.ionicframework.com/docs/building/scaffolding">
-        <ion-icon slot="start" color="medium" name="build"></ion-icon>
-        <ion-label>Scaffold Out Your App</ion-label>
-      </ion-item>
-      <ion-item href="https://beta.ionicframework.com/docs/layout/structure">
-        <ion-icon slot="start" color="medium" name="grid"></ion-icon>
-        <ion-label>Change Your App Layout</ion-label>
-      </ion-item>
-      <ion-item href="https://beta.ionicframework.com/docs/theming/basics">
-        <ion-icon slot="start" color="medium" name="color-fill"></ion-icon>
-        <ion-label>Theme Your App</ion-label>
-      </ion-item>
-    </ion-list>
-</ion-content>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+      <ion-title>
+          <ion-list>
+              <ion-item>
+                <ion-label>Valle de Teotihuacán</ion-label>
+                <ion-select [(ngModel)]="municipio">
+                    <ion-select-option value="otumba">Otumba</ion-select-option>
+                    <ion-select-option value="sanjuan">San Juan T.</ion-select-option>
+                    <ion-select-option value="sanmartin">San Martin de las Pdes.</ion-select-option>
+                </ion-select>
+              </ion-item>
+            </ion-list>
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-content>
+      <ion-card class="welcome-card">
+        <ion-img src="/assets/valledeteotihuacan.jpeg"></ion-img>
+        <ion-card-header>
+          <ion-card-title>Bienvenidos a Valle de Teotihuacan</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          <p style="text-align: justify">
+            Esta es una versión piloto donde quiero dar a conocer información escencial de los municipios que conforman el valle de Teotihuacan.
+            Todos sus comentarios son bienvenidos con el fin de hacer una aplicación útil para las personas que viven en la zona y para quienes nos visitan. 
+          </p>
+        </ion-card-content>
+      </ion-card>
+      <ion-list lines="none">
+        <ion-list-header>
+          <ion-label>Topicos</ion-label>
+        </ion-list-header>
+        <ion-item href="https://beta.ionicframework.com/docs/">
+          <ion-icon slot="start" color="medium" name="book"></ion-icon>
+          <ion-label>Gobierno</ion-label>
+        </ion-item>
+        <ion-item href="https://beta.ionicframework.com/docs/building/scaffolding">
+          <ion-icon slot="start" color="medium" name="build"></ion-icon>
+          <ion-label>Servicios</ion-label>
+        </ion-item>
+        <ion-item href="https://beta.ionicframework.com/docs/layout/structure">
+          <ion-icon slot="start" color="medium" name="grid"></ion-icon>
+          <ion-label>Entretenimiento</ion-label>
+        </ion-item>
+        <ion-item href="https://beta.ionicframework.com/docs/theming/basics">
+          <ion-icon slot="start" color="medium" name="color-fill"></ion-icon>
+          <ion-label>Cultura</ion-label>
+        </ion-item>
+      </ion-list>
+  </ion-content>
+  
