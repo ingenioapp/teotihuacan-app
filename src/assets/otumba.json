@@ -1,0 +1,1122 @@
+[
+  {
+    "cargo": "VIALIDAD",
+    "nombre": "LUCILA",
+    "apaterno": "HERNANDEZ",
+    "amaterno": "VALENTIN",
+    "area": "29144>>>DIRECCIÓN TÉCNICA SEGURIDAD PÚBLICA Y VIALIDAD",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "ECOLOGIA",
+    "nombre": "DAVID ELEAZAR",
+    "apaterno": "MILLAN",
+    "amaterno": "ALVARADO",
+    "area": "21337>>>DIRECCIÓN DE MEDIO AMBIENTE",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DIR AGUA POTABLE",
+    "nombre": "RUPERTO",
+    "apaterno": "GARCIA",
+    "amaterno": "GODINEZ",
+    "area": "21343>>>DIRECCIÓN DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DIR DE OBRAS PUBLICAS",
+    "nombre": "ADOLFO",
+    "apaterno": "PASTRANA",
+    "amaterno": "REDONDA",
+    "area": "21328>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "SEGURIDAD PUBLICA",
+    "nombre": "JAVIER EDUARDO",
+    "apaterno": "HUERTA",
+    "amaterno": "GARCIA",
+    "area": "21329>>>DIRECCIÓN DE SEGURIDAD PÚBLICA",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DESARROLLO RURAL Y FORESTAL",
+    "nombre": "BENITA",
+    "apaterno": "HERNANDEZ",
+    "amaterno": "BLANCAS",
+    "area": "29146>>>DIRECCIÓN DE DESARROLLO RURAL Y FORESTAL.",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "INSTITUTO DE LA JUVENTUD",
+    "nombre": "EDUARDO",
+    "apaterno": "FRANCO",
+    "amaterno": "CASTILLO",
+    "area": "29148>>>INSTITUTO DE LA JUVENTUD",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "REGLAMENTOS Y VÍA PÚBLICA",
+    "nombre": "DIANA MARLET",
+    "apaterno": "RODRIGUEZ",
+    "amaterno": "BELTRAN",
+    "area": "21406>>>DIRECCIÓN DE REGLAMENTOS Y VÍA PÚBLICA",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DESARROLLO SOCIAL",
+    "nombre": "FELIX ROGELIO",
+    "apaterno": "ISLAS",
+    "amaterno": "ESPINOSA",
+    "area": "21334>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DESARROLLO AGROPECUARIO",
+    "nombre": "CARLOS",
+    "apaterno": "CORONEL",
+    "amaterno": "PINEDA",
+    "area": "21336>>>DIRECCIÓN DE DESARROLLO AGROPECUARIO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DIR AGUA POTABLE",
+    "nombre": "VICTOR HUGO",
+    "apaterno": "JUAREZ",
+    "amaterno": "MONTALVO",
+    "area": "21343>>>DIRECCIÓN DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DIR DE OBRAS PUBLICAS",
+    "nombre": "JOSE MAURICIO",
+    "apaterno": "ALVAREZ",
+    "amaterno": "RAMIREZ",
+    "area": "21328>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "VIALIDAD",
+    "nombre": "MARIBEL",
+    "apaterno": "CRUZ",
+    "amaterno": "AGUILAR",
+    "area": "29144>>>DIRECCIÓN TÉCNICA SEGURIDAD PÚBLICA Y VIALIDAD",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "OBRAS PUBLICAS",
+    "nombre": "ENRIQUE",
+    "apaterno": "RAMIREZ",
+    "amaterno": "MARTINEZ",
+    "area": "21328>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "EDUCACION",
+    "nombre": "SELENE ISABEL",
+    "apaterno": "HERNANDEZ",
+    "amaterno": "ROMERO",
+    "area": "21335>>>DIRECCIÓN DE EDUCACIÓN Y CULTURA",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "ECOLOGIA",
+    "nombre": "MARIO",
+    "apaterno": "RAMIREZ",
+    "amaterno": "VARGAS",
+    "area": "21337>>>DIRECCIÓN DE MEDIO AMBIENTE",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "SERVICIOS PUBLICOS",
+    "nombre": "MARCELINO",
+    "apaterno": "GONZALEZ",
+    "amaterno": "HERNANDEZ",
+    "area": "21338>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "SERVICIOS PUBLICOS",
+    "nombre": "JESUS",
+    "apaterno": "FERNANDEZ",
+    "amaterno": "RIVERA",
+    "area": "21338>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "COMUNICACION SOCIAL",
+    "nombre": "JORGE ALBERTO",
+    "apaterno": "ORTEGA",
+    "amaterno": "LUNA",
+    "area": "21348>>>DIRECCIÓN DE COMUNICACIÓN SOCIAL",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DIR DE SALUD",
+    "nombre": "MARIA GUADALUPE",
+    "apaterno": "HUERTA G",
+    "amaterno": "ONZALEZ",
+    "area": "29147>>>DIRECCIÓN DE SALUD",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "SERVICIOS GENERALES",
+    "nombre": "JESUS ELIAS",
+    "apaterno": "GUTIERREZ",
+    "amaterno": "BLANCAS",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "TURISMO",
+    "nombre": "OMAR MARCELINO",
+    "apaterno": "BADILLO",
+    "amaterno": "ESPINOSA",
+    "area": "21333>>>DIRECCIÓN DE TURISMO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "PARQUES Y JARDINES",
+    "nombre": "FELIPE",
+    "apaterno": "BELTRAN",
+    "amaterno": "ESPINOSA",
+    "area": "21338>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "DESARROLLO AGROPECUARIO",
+    "nombre": "MACARIO",
+    "apaterno": "LOPEZ",
+    "amaterno": "ESPINOZA",
+    "area": "21336>>>DIRECCIÓN DE DESARROLLO AGROPECUARIO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "ALUMBRADO PUBLICO",
+    "nombre": "JUAN FRANCISCO",
+    "apaterno": "HERNANDEZ",
+    "amaterno": "TENORIO",
+    "area": "29145>>>DIRECCIÓN DE ALUMBRADO PÚBLICO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "SERVICIOS GENERALES",
+    "nombre": "MODESTO",
+    "apaterno": "NAJERA",
+    "amaterno": "CORTES",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "COMUNICACION SOCIAL",
+    "nombre": "SERAFIN ONOFRE",
+    "apaterno": "SANCHEZ",
+    "amaterno": "SANTELIZ",
+    "area": "21348>>>DIRECCIÓN DE COMUNICACIÓN SOCIAL",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "PARQUE VEHICULAR",
+    "nombre": "FERNANDO",
+    "apaterno": "ACO",
+    "amaterno": "LEON",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "SERVICIOS GENERALES",
+    "nombre": "ANTONIO",
+    "apaterno": "ARVIZU",
+    "amaterno": "LEON",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "CATASTRO",
+    "nombre": "JUAN PABLO",
+    "apaterno": "CAMACHO",
+    "amaterno": "MARQUEZ",
+    "area": "21339>>>DIRECCIÓN DE CATASTRO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "AGUA POTABLE",
+    "nombre": "MIGUEL",
+    "apaterno": "APOLONIO",
+    "amaterno": "CORONA",
+    "area": "21343>>>DIRECCIÓN DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "OBRAS PUBLICAS",
+    "nombre": "LORENA ELVIRA",
+    "apaterno": "CORTES",
+    "amaterno": "SANABRIA",
+    "area": "21328>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LA MUJER",
+    "nombre": "BRENDA VIVIANA",
+    "apaterno": "CASTILLO",
+    "amaterno": "BOJORGES",
+    "area": "29096>>>INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LA MUJER",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "GOBERNACIÓN",
+    "nombre": "MIGUEL ILDEFONSO",
+    "apaterno": "MARQUEZ",
+    "amaterno": "SANDOVAL",
+    "area": "54524>>>DIRECCIÓN MUNICIPAL DE GOBERNACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "ABASTECIMIENTO DE COMBUSTIBLE",
+    "nombre": "FELIPE",
+    "apaterno": "GARCIA",
+    "amaterno": "HUERTA",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "EVENTOS",
+    "nombre": "JESUS ELIAS",
+    "apaterno": "GUTIERREZ",
+    "amaterno": "BLANCAS",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "PARQUE VEHICULAR",
+    "nombre": "ALFONSO",
+    "apaterno": "DELGADILLO",
+    "amaterno": "NAVARRETE",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "pvehicular@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "MANTENIMIENTO Y SERVICIOS GENERALES",
+    "nombre": "CELESTINO",
+    "apaterno": "ACO",
+    "amaterno": "LEON",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "mantenimiento@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "SISTEMAS Y TELEFONÍA",
+    "nombre": "JOSE ALFREDO",
+    "apaterno": "HERRERA",
+    "amaterno": "JIMENEZ",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "sistel@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "RECURSOS MATERIALES",
+    "nombre": "JOSE CARLOS",
+    "apaterno": "FUENTES",
+    "amaterno": "VARGAS",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "N/A"
+  },
+  {
+    "cargo": "RECURSOS HUMANOS",
+    "nombre": "BENITO",
+    "apaterno": "RODRIGUEZ",
+    "amaterno": "MARQUEZ",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 105",
+    "correo": "recuhum@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "DESARROLLO INTEGRAL DE LA FAMILIA",
+    "nombre": "ABIGAIL",
+    "apaterno": "MILLAN",
+    "amaterno": "ALVARADO",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9221366",
+    "correo": "presidenciadif@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "INSTITUTO MEXIQUENSE DE CULTURA FÍSICA Y DEPORTE",
+    "nombre": "ABUNDIO ALBERTO",
+    "apaterno": "AGUILAR",
+    "amaterno": "LOPEZ",
+    "area": "30395>>>INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE OTUMBA",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "imcufide@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "REGLAMENTOS Y VÍA PUBLICA",
+    "nombre": "MARCOS",
+    "apaterno": "SANDOVAL",
+    "amaterno": "CESAR",
+    "area": "21406>>>DIRECCIÓN DE REGLAMENTOS Y VÍA PÚBLICA",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344",
+    "correo": "reglamentos@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "DIRECCIÓN DE MEDIO AMBIENTE",
+    "nombre": "CAYETANO GONZALO",
+    "apaterno": "FLORES",
+    "amaterno": "RAMIREZ",
+    "area": "21337>>>DIRECCIÓN DE MEDIO AMBIENTE",
+    "fechaAlta": "15/01/2019",
+    "telefono": "(592)9222344 Ext. 111",
+    "correo": "mambiente@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "SINDICO",
+    "nombre": "LAURA ISELA",
+    "apaterno": "VEGA",
+    "amaterno": "LOPEZ",
+    "area": "21316>>>SINDICATURA MUNICIPAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": "(592)9222344 Ext. 114",
+    "correo": "sindicatura@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "COORDIDAROR ADULTOS MAYORES",
+    "nombre": "ESTEFANY MALINZY",
+    "apaterno": "RAMIREZ",
+    "amaterno": "MORALES",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "cordinador familias fuertescon apoyos de horta dif",
+    "nombre": "MARCO ANTONIO",
+    "apaterno": "REA",
+    "amaterno": "YESCAS",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "coordinador familias fuertes nutricion escolar",
+    "nombre": "ADRIAN GABRIEL",
+    "apaterno": "BARRIGA",
+    "amaterno": "JUAREZ",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "COORDINADOR",
+    "nombre": "KARINA LIZBEHT",
+    "apaterno": "FRANCO",
+    "amaterno": "HERNANDEZ",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "CORORDINACION DE AUTO EMPLEO",
+    "nombre": "DIANA",
+    "apaterno": "LOPEZ",
+    "amaterno": "ROSALES",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "PROCURADORIA DE PROTECCION MUNICIPAL DEL NIÑO , NIÑAS Y ADOLECENTE",
+    "nombre": "HECTOR MIGUEL",
+    "apaterno": "DELGADILLO",
+    "amaterno": "CANO",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "CORDIDADORA DE ESTANCIA",
+    "nombre": "EDITH",
+    "apaterno": "AGUILAR",
+    "amaterno": "SANTELIZ",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929221366,
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "COORDINADORA",
+    "nombre": "ANA PATRICIA",
+    "apaterno": "JUÁREZ",
+    "amaterno": "PÉREZ",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015929221366 Ext. 602",
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "TESORERIA",
+    "nombre": "CÉSAR DAMIÁN",
+    "apaterno": "SÁNCHEZ",
+    "amaterno": "DÍAZ",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015929221366 Ext. 603",
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "DIRECTORA",
+    "nombre": "ABIGAIL",
+    "apaterno": "MILLAN",
+    "amaterno": "ALVARADO",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015929221366 Ext. 607",
+    "correo": "difotumba1921@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "FELICITAS",
+    "apaterno": "JUAREZ",
+    "amaterno": "BADILLO",
+    "area": "30395>>>INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE OTUMBA",
+    "fechaAlta": "16/02/2019",
+    "telefono": 5538149876,
+    "correo": "felicitas_juarez87@outlook.es"
+  },
+  {
+    "cargo": "Directora de Finanzas",
+    "nombre": "JESUS",
+    "apaterno": "ESPINOSA",
+    "amaterno": "ORTIZ",
+    "area": "30395>>>INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE OTUMBA",
+    "fechaAlta": "16/02/2019",
+    "telefono": 5564046199,
+    "correo": "Finanzas2019-2021@outlook.es"
+  },
+  {
+    "cargo": "DIRECTOR GENERAL",
+    "nombre": "ABUNDIO ALBERTO",
+    "apaterno": "AGUILAR",
+    "amaterno": "LOPEZ",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5533073017,
+    "correo": "imcufide@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "DIRECTOR DEL INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE",
+    "nombre": "ABUNDIO ALBERTO",
+    "apaterno": "AGUILAR",
+    "amaterno": "LÓPEZ",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/02/2019",
+    "telefono": "01 592 92 2 23 44",
+    "correo": "NA"
+  },
+  {
+    "cargo": "COORDINADOR DE SISTEMAS Y TELEFONÍA",
+    "nombre": "JOSE ALFREDO",
+    "apaterno": "HERRERA",
+    "amaterno": "JÍMENEZ",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SECRETARIO TÉCNICO",
+    "nombre": "CAYETANO GONZALO",
+    "apaterno": "FLORES",
+    "amaterno": "RAMIREZ",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE GOBERNACIÓN",
+    "nombre": "LEOPOLDO",
+    "apaterno": "ESPAÑA",
+    "amaterno": "ESPINOSA",
+    "area": "54524>>>DIRECCIÓN MUNICIPAL DE GOBERNACIÓN",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SECRETARÍA TÉCNICA DE SEGURIDAD PÚBLICA",
+    "nombre": "KARINA",
+    "apaterno": "DE LA MORA",
+    "amaterno": "CASTANEIRA",
+    "area": "29144>>>DIRECCIÓN TÉCNICA SEGURIDAD PÚBLICA Y VIALIDAD",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE SEGURIDAD PÚBLICA MUNICIPAL",
+    "nombre": "HÉCTOR EDUARDO",
+    "apaterno": "OROZCO",
+    "amaterno": "AGUIRRE",
+    "area": "21329>>>DIRECCIÓN DE SEGURIDAD PÚBLICA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE REGLAMENTOS",
+    "nombre": "MARCOS",
+    "apaterno": "SANDOVAL",
+    "amaterno": "CESAR",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "reglamentos@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "DIRECTORA DE SALUD",
+    "nombre": "YURITZI SAIRAI",
+    "apaterno": "CASTILLO",
+    "amaterno": "CID",
+    "area": "29147>>>DIRECCIÓN DE SALUD",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "PRESIDENTE MUNICIPAL",
+    "nombre": "MAURICIO ALBERTO",
+    "apaterno": "CID",
+    "amaterno": "FRANCO",
+    "area": "21295>>>PRESIDENCIA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SINDICO MUNICIPAL",
+    "nombre": "LAURA ISELA",
+    "apaterno": "VEGA",
+    "amaterno": "LÓPEZ",
+    "area": "21316>>>SINDICATURA MUNICIPAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 1",
+    "nombre": "JORGE LUIS",
+    "apaterno": "OLVERA",
+    "amaterno": "JÚAREZ",
+    "area": "21312>>>PRIMERA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 2",
+    "nombre": "ROSAURA",
+    "apaterno": "LAZCANO",
+    "amaterno": "ESPINOZA",
+    "area": "21313>>>SEGUNDA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 3",
+    "nombre": "ESTEBAN",
+    "apaterno": "ESPINOSA",
+    "amaterno": "YAÑES",
+    "area": "21314>>>TERCERA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 4",
+    "nombre": "REYNA",
+    "apaterno": "GERONIMO",
+    "amaterno": "AGUILAR",
+    "area": "21317>>>CUARTA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 5",
+    "nombre": "VICTOR",
+    "apaterno": "SANHEZ",
+    "amaterno": "BELTRÁN",
+    "area": "21318>>>QUINTO REGIDOR",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 6",
+    "nombre": "ANAYELI",
+    "apaterno": "ALVAREZ",
+    "amaterno": "CAMACHO",
+    "area": "21320>>>SEXTA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 7",
+    "nombre": "ROSA LIZETH",
+    "apaterno": "HUERTA",
+    "amaterno": "SUAREZ",
+    "area": "21321>>>SÉPTIMA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 8",
+    "nombre": "ROSARIO",
+    "apaterno": "GARCÍA",
+    "amaterno": "GONZALEZ",
+    "area": "21322>>>OCTAVA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 9",
+    "nombre": "JUAN IGNACIO",
+    "apaterno": "JUAREZ",
+    "amaterno": "ORTIZ",
+    "area": "21323>>>NOVENA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "REGIDOR 10",
+    "nombre": "MIGUEL",
+    "apaterno": "RAMÍREZ",
+    "amaterno": "ARAGON",
+    "area": "21324>>>DECIMA REGIDURÍA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "TESORERO MUNICIPAL",
+    "nombre": "LUIS ALBERTO",
+    "apaterno": "GÓMEZ",
+    "amaterno": "GONZÁLEZ",
+    "area": "14647>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "CONTRALOR MUNICIPAL",
+    "nombre": "URIEL",
+    "apaterno": "FUENTES",
+    "amaterno": "YUNES",
+    "area": "21326>>>CONTRALORÍA INTERNA MUNICIPAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SECRETARIO DEL H. AYUNTAMIENTO",
+    "nombre": "LEONARDO",
+    "apaterno": "AGUILAR",
+    "amaterno": "BELTRÁN",
+    "area": "21325>>>SECRETARÍA DE H. AYUNTAMIENTO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE OBRAS PUBLICAS",
+    "nombre": "ARTURO",
+    "apaterno": "LÓPEZ",
+    "amaterno": "MALDONADO",
+    "area": "21328>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE DESARROLLO URBANO",
+    "nombre": "CARLOS MIGUEL",
+    "apaterno": "PEREZ",
+    "amaterno": "JUAREZ",
+    "area": "21330>>>DIRECCIÓN DE DESARROLLO URBANO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE CATASTRO",
+    "nombre": "OSCAR DANIEL",
+    "apaterno": "JUAREZ",
+    "amaterno": "FRANCO",
+    "area": "21339>>>DIRECCIÓN DE CATASTRO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTORA DE DESARROLLO AGROPECUARIO",
+    "nombre": "NORMA",
+    "apaterno": "ESPINOSA",
+    "amaterno": "GARCÍA",
+    "area": "21336>>>DIRECCIÓN DE DESARROLLO AGROPECUARIO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE MEDIO AMBIENTE",
+    "nombre": "MIGUEL ILDEFONSO",
+    "apaterno": "MARQUEZ",
+    "amaterno": "SANDOVAL",
+    "area": "21337>>>DIRECCIÓN DE MEDIO AMBIENTE",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE DESARROLLO RURAL Y FORESTAL",
+    "nombre": "MAURICIO",
+    "apaterno": "MALDONADO",
+    "amaterno": "GARCÍA",
+    "area": "29146>>>DIRECCIÓN DE DESARROLLO RURAL Y FORESTAL.",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "OFICIAL DEL REGISTRO CIVIL",
+    "nombre": "HERMINIO",
+    "apaterno": "AGUILAR",
+    "amaterno": "FRANCO",
+    "area": "21350>>>OFICIALÍA DEL REGISTRO CIVIL",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "OFICIAL MEDIADOR Y CONCILIADOR",
+    "nombre": "BRIGIDA",
+    "apaterno": "LOPEZ",
+    "amaterno": "JIMENEZ",
+    "area": "30419>>>OFICIALÍA MEDIADORA- CONCILIADORA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "OFICIAL CALIFICADORA",
+    "nombre": "VICTORIA LIZBETH",
+    "apaterno": "ACO",
+    "amaterno": "ORTIZ",
+    "area": "21341>>>OFICIALÍA CALIFICADORA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE COMUNICACIÓN SOCIAL",
+    "nombre": "ROLANDO",
+    "apaterno": "JUÁREZ",
+    "amaterno": "CHÁVEZ",
+    "area": "21348>>>DIRECCIÓN DE COMUNICACIÓN SOCIAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE DESARROLLO SOCIAL",
+    "nombre": "ALEJANDRO",
+    "apaterno": "SANTELIS",
+    "amaterno": "JUAREZ",
+    "area": "21334>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "dsocial@ayuntamientotumba.gob.mx"
+  },
+  {
+    "cargo": "DEFENSORA MUNICIPAL DE DERECHOS HUMANOS",
+    "nombre": "CLAUDIA",
+    "apaterno": "BELTRAN",
+    "amaterno": "ÁVILA",
+    "area": "21345>>>DEFENSORÍA MUNICIPAL DE DERECHOS HUMANOS",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "COORDINADOR DE PARQUE VEHICULAR",
+    "nombre": "FERNANDO",
+    "apaterno": "ACO",
+    "amaterno": "LEÓN",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE ALUMBRADO PUBLICO",
+    "nombre": "FRANCISCO",
+    "apaterno": "GOMEZ",
+    "amaterno": "ESPINOZA",
+    "area": "29145>>>DIRECCIÓN DE ALUMBRADO PÚBLICO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO",
+    "nombre": "RICARDO",
+    "apaterno": "MORENO",
+    "amaterno": "GODINEZ",
+    "area": "21343>>>DIRECCIÓN DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE SERVICIOS PUBLICOS",
+    "nombre": "LUIS ARMANDO",
+    "apaterno": "RAMOS",
+    "amaterno": "PERRUSQUIA",
+    "area": "21338>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DEL INSTITUTO DE LA JUVENTUD DE OTUMBA",
+    "nombre": "MARTIN",
+    "apaterno": "RAMIREZ",
+    "amaterno": "OLVERA",
+    "area": "29148>>>INSTITUTO DE LA JUVENTUD",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTORA DEL INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LA MUJER",
+    "nombre": "MARÍA DEL ROSARIO",
+    "apaterno": "BLANCAS",
+    "amaterno": "BARRIGA",
+    "area": "29096>>>INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LA MUJER",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTORA DE TURISMO",
+    "nombre": "CARLA ZAIRA",
+    "apaterno": "MARTINEZ",
+    "amaterno": "VELAZQUEZ",
+    "area": "21333>>>DIRECCIÓN DE TURISMO",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE PROTECCIÓN CIVIL Y BOMBEROS",
+    "nombre": "SAMUEL",
+    "apaterno": "ARENAS",
+    "amaterno": "DÍAS",
+    "area": "21331>>>DIRECCIÓN DE PROTECCIÓN CIVIL Y BOMBEROS",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015929221578",
+    "correo": "NA"
+  },
+  {
+    "cargo": "SUBDIRECCIÓN DE VIALIDAD DEL MUNICIPIO DE OTUMBA",
+    "nombre": "ADRÍAN GABRIEL",
+    "apaterno": "BARRIGA",
+    "amaterno": "LLANES",
+    "area": "29144>>>DIRECCIÓN TÉCNICA SEGURIDAD PÚBLICA Y VIALIDAD",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "COORDINADORA DE BIBLIOTECAS",
+    "nombre": "JESSICA VIRGINIA",
+    "apaterno": "ESPINOSA",
+    "amaterno": "SOTO",
+    "area": "156>>>OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "ENCARGADO DEL ÁREA JURIDICA",
+    "nombre": "JOSE LUIS OSCAR",
+    "apaterno": "ESPINOSA",
+    "amaterno": "RAMOS",
+    "area": "21340>>>DIRECCIÓN JURÍDICA Y CONSULTIVA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE EDUCACION Y CULTURA",
+    "nombre": "OSCAR",
+    "apaterno": "MONTALVO",
+    "amaterno": "GALLEGOS",
+    "area": "21335>>>DIRECCIÓN DE EDUCACIÓN Y CULTURA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTOR DE ADMINISTRACION",
+    "nombre": "HECTOR MANUEL",
+    "apaterno": "OROZCO",
+    "amaterno": "ESPINOZA",
+    "area": "21327>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "NA"
+  },
+  {
+    "cargo": "PRESIDENTA DEL SISTEMA  MUNICIPAL DIF OTUMBA",
+    "nombre": "MARGARITA",
+    "apaterno": "JÍMENEZ",
+    "amaterno": "ESPEJEL",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": "596 92 2 13 66",
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTORA DEL SISTEMA  MUNICIPAL DIF OTUMBA",
+    "nombre": "ABIGAIL",
+    "apaterno": "MILLAN",
+    "amaterno": "ALVARADO",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": "595 92 2 13 66",
+    "correo": "NA"
+  },
+  {
+    "cargo": "TESORERO  DEL SISTEMA  MUNICIPAL DIF OTUMBA",
+    "nombre": "CESAR DAMÍAN",
+    "apaterno": "SÁNCHEZ",
+    "amaterno": "DÍAZ",
+    "area": "30418>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE OTUMBA",
+    "fechaAlta": "01/01/2019",
+    "telefono": "594 92 2 13 66",
+    "correo": "NA"
+  },
+  {
+    "cargo": "DIRECTORA DE DESARROLLO ECONÓMICO Y MEJORA REGULATORIA",
+    "nombre": "ITATÍ",
+    "apaterno": "MENDÉZ",
+    "amaterno": "HERRERA",
+    "area": "54525>>>DIRECCIÓN DE DESARROLLO ECONÓMICO Y MEJORA REGULATORIA",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5929222344,
+    "correo": "mejoraregulatoria.otumba@gmail.com"
+  },
+  {
+    "cargo": "DIRECTORA DE  UIPPE",
+    "nombre": "ELIZABETH",
+    "apaterno": "ESPEJEL",
+    "amaterno": "CHÁVEZ",
+    "area": "21349>>>DIRECCIÓN DE LA UNIDAD DE INFORMACIÓN, PLANEACIÓN, PROGRAMACIÓN Y EVALUACIÓN",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015929222344",
+    "correo": "ely900320@gmail.com"
+  }
+]

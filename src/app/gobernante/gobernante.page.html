@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Cabildo {{data.getMunicipioByKey(municipio)}}</ion-title>
+    <ion-buttons slot="start">
+        <ion-back-button defaultHref="gobierno"></ion-back-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+    <ion-list>
+        <ion-item *ngFor="let g of gobernantes">
+          <ion-label>
+            <h2>{{g.nombre}} {{g.apaterno}} {{g.amaterno}}</h2>
+            <h3>{{g.cargo}}</h3>
+            <p>
+              Telefono: {{g.telefono}} <br/>
+              Correo:   {{g.correo}}
+            </p>
+          </ion-label>
+        </ion-item>
+
+    </ion-list>
+
+</ion-content>

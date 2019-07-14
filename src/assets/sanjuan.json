@@ -1,0 +1,2382 @@
+[
+  {
+    "cargo": "Auxiliar Adminstrativo",
+    "nombre": "Porfirio",
+    "apaterno": "Badillo",
+    "amaterno": "Martínez",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/05/2018",
+    "telefono": "015949561686 ext. 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Adminstrativo",
+    "nombre": "Xochitl Gabriela",
+    "apaterno": "García",
+    "amaterno": "Vázquez",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/04/2018",
+    "telefono": "015949561686 ext. 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Adminstrativo",
+    "nombre": "Lilian Guadalupe",
+    "apaterno": "Castillo",
+    "amaterno": "Campos",
+    "area": "4088>>>SECRETARÍA DEL H. AYUNTAMIENTO",
+    "fechaAlta": "01/05/2018",
+    "telefono": "015949561686 ext. 111",
+    "correo": "secretariaaytto@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Desarrollo Agropecuario y Bienestar Animal",
+    "nombre": "Vicente",
+    "apaterno": "Rodriguez",
+    "amaterno": "Campos",
+    "area": "18866>>>COORDINACIÓN DE  BIENESTAR ANIMAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686",
+    "correo": "banimal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Desarrollo Metropolitano y Participación Ciudadana (PA)",
+    "nombre": "Luis Angel",
+    "apaterno": "Sánchez",
+    "amaterno": "Badillo",
+    "area": "27030>>>DIRECCIÓN DE PARTICIPACIÓN CIUDADANA",
+    "fechaAlta": "13/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "desmetropolitano@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Encargada de Egresos",
+    "nombre": "Guadalupe",
+    "apaterno": "Salas",
+    "amaterno": "Salazar",
+    "area": "183>>>TEOTIHUACAN",
+    "fechaAlta": "16/08/2016",
+    "telefono": 15949561686,
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "Sistemas Contables",
+    "nombre": "Juan Sergio",
+    "apaterno": "Ríos",
+    "amaterno": "Ramos",
+    "area": "183>>>TEOTIHUACAN",
+    "fechaAlta": "16/08/2016",
+    "telefono": 15949561686,
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "Encargado de Contabilidad",
+    "nombre": "Felipe de Jesus",
+    "apaterno": "Ríos",
+    "amaterno": "Ramos",
+    "area": "183>>>TEOTIHUACAN",
+    "fechaAlta": "16/08/2016",
+    "telefono": 15949561686,
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "SUB-INSPECTOR DE PROTECCIÓN CIVIL",
+    "nombre": "Alejandro",
+    "apaterno": "Hernandez",
+    "amaterno": "Castro",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "01/07/2017",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Flor Karina",
+    "apaterno": "Herrera",
+    "amaterno": "Valero",
+    "area": "27913>>>OFICIALÍA MEDIADORA-CONCILIADORA Y CALIFICADORA SEGUNDO TURNO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686",
+    "correo": "oficialiac2dot@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Edgar Alan",
+    "apaterno": "Hernández",
+    "amaterno": "Valdivia",
+    "area": "4086>>>NOVENA REGIDURÍA",
+    "fechaAlta": "16/09/2016",
+    "telefono": "015949561686 - 138",
+    "correo": "novenaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador C",
+    "nombre": "Aaron Armando",
+    "apaterno": "Perez",
+    "amaterno": "de la Garza",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/01/2018",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "María de Jesús",
+    "apaterno": "Villada",
+    "amaterno": "Bazan",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador C",
+    "nombre": "Alejandro",
+    "apaterno": "Melgar",
+    "amaterno": "Rojas",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "María de Lourdes",
+    "apaterno": "Cardenas",
+    "amaterno": "Oliva",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Lucia Noemi",
+    "apaterno": "Rosas",
+    "amaterno": "Palacios",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Maria Maribel",
+    "apaterno": "Rodriguez",
+    "amaterno": "Vega",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Jorge Luis",
+    "apaterno": "Marquez",
+    "amaterno": "Flores",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador de Tecnologías de la Información y Comunicación",
+    "nombre": "Jose Antonio",
+    "apaterno": "Ochoa",
+    "amaterno": "Valencia",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Emanuel",
+    "apaterno": "Castro",
+    "amaterno": "Bistrain",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/01/2018",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Roberto",
+    "apaterno": "Cardenas",
+    "amaterno": "López",
+    "area": "4087>>>DÉCIMA REGIDURÍA",
+    "fechaAlta": "17/01/2018",
+    "telefono": "015949561686 - 148",
+    "correo": "decimaregiduriateoti@gmail.com"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Luis Omar",
+    "apaterno": "Cano",
+    "amaterno": "Hernández",
+    "area": "4081>>>CUARTA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 135",
+    "correo": "cuartaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Elias",
+    "apaterno": "Beltran",
+    "amaterno": "Rodriguez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Benito",
+    "apaterno": "Hernández",
+    "amaterno": "Torres",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Calixto",
+    "apaterno": "Rodriguez",
+    "amaterno": "Leon",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Silvia",
+    "apaterno": "Vicuña",
+    "amaterno": "García",
+    "area": "27830>>>DIRECCIÓN DE FOMENTO ARTESANAL Y CULTURA",
+    "fechaAlta": "01/01/2018",
+    "telefono": "(01594)9568411",
+    "correo": "fomentoartesanal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Adminstrativo",
+    "nombre": "José Guadalupe",
+    "apaterno": "Arredonda",
+    "amaterno": "Camargo",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 ext. 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Enrique Lorenzo",
+    "apaterno": "Ríos",
+    "amaterno": "Martínez",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 ext. 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Abdiel",
+    "apaterno": "Arias",
+    "amaterno": "Fernández",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 ext.115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Directora de Fomento Artesanal y Cultura",
+    "nombre": "María de la Luz",
+    "apaterno": "Romero",
+    "amaterno": "López",
+    "area": "27830>>>DIRECCIÓN DE FOMENTO ARTESANAL Y CULTURA",
+    "fechaAlta": "13/01/2016",
+    "telefono": "(01594)9568411",
+    "correo": "fomentoartesanal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "INTENDENCIA",
+    "nombre": "MARIA ELENA",
+    "apaterno": "LOPEZ",
+    "amaterno": "RENDONDA",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/09/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Miriam Columba",
+    "apaterno": "Osorio",
+    "amaterno": "Reyes",
+    "area": "183>>>TEOTIHUACAN",
+    "fechaAlta": "16/08/2016",
+    "telefono": 15949561686,
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de Desarrollo",
+    "nombre": "Luis Manuel",
+    "apaterno": "Sánchez",
+    "amaterno": "Ibarra",
+    "area": "183>>>TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": 15949561686,
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "TRABAJADORA SOCIAL",
+    "nombre": "ELIZABETH",
+    "apaterno": "MONTIEL",
+    "amaterno": "ORTIZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/08/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "AUXILIAR GENERAL",
+    "nombre": "NUVIA GUADALUPE",
+    "apaterno": "RODRIGUEZ",
+    "amaterno": "HERNANDEZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/08/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar General",
+    "nombre": "Mercedes Griselda",
+    "apaterno": "Muro",
+    "amaterno": "Riestra",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "TERAPEUTA",
+    "nombre": "LUCERO",
+    "apaterno": "VITAL",
+    "amaterno": "HERNANDEZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/06/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Recepcionista",
+    "nombre": "Jocelyn Araceli",
+    "apaterno": "Rosales",
+    "amaterno": "Torres",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/06/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar General",
+    "nombre": "Margarita",
+    "apaterno": "Escobar",
+    "amaterno": "Flores",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/06/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar Jurídico",
+    "nombre": "Cesar",
+    "apaterno": "Ponce",
+    "amaterno": "Herrera",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/04/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "PROMOTOR DE HORTADIF",
+    "nombre": "CARLOS",
+    "apaterno": "VILLARON",
+    "amaterno": "GARCIA",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar General",
+    "nombre": "Jenny Mariana",
+    "apaterno": "Blancas",
+    "amaterno": "Arena",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "PROMOTOR ADULTOS MAYORES",
+    "nombre": "ALBA ISELA",
+    "apaterno": "VELAZQUEZ",
+    "amaterno": "VILLEGAS",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "ODONTOLOGO",
+    "nombre": "URIEL",
+    "apaterno": "REYES",
+    "amaterno": "BAILON",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar General",
+    "nombre": "María Juana",
+    "apaterno": "Alvarado",
+    "amaterno": "X",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/07/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "AXILIAR CONTABLE",
+    "nombre": "MINERVA",
+    "apaterno": "MENA",
+    "amaterno": "SUAREZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "AUXILIAR DE DIRECCION",
+    "nombre": "MA. DE LA LUZ",
+    "apaterno": "MARTINEZ",
+    "amaterno": "HERNANDEZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar General",
+    "nombre": "Norma Gabriela",
+    "apaterno": "García",
+    "amaterno": "Cespedes",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Chofer Asistencia Social",
+    "nombre": "Francisco",
+    "apaterno": "Mandujano",
+    "amaterno": "Caballero",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar de Presidencia",
+    "nombre": "ADRIAN AGUSTIN",
+    "apaterno": "FLORES",
+    "amaterno": "ESPINOZA",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "PROCURADORA MUNICIPAL DE PROTECCIÓN DEL NIÑO, LA NIÑA Y EL ADOLESCENTE",
+    "nombre": "FABIOLA",
+    "apaterno": "ESQUIVEL",
+    "amaterno": "CLAUDIO",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "RECEPCIONISTA",
+    "nombre": "KAREN ALINE",
+    "apaterno": "DURAN",
+    "amaterno": "SOSA",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Dra. Especialista Terapeuta",
+    "nombre": "Yaneli",
+    "apaterno": "Castañeda",
+    "amaterno": "Espinosa",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "AUXILIAR GENERAL",
+    "nombre": "EVA NOEMI",
+    "apaterno": "DIAZ",
+    "amaterno": "CERON",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "PROMOTOR DE DESAYUNOS ESCOLARES",
+    "nombre": "NOHEMI",
+    "apaterno": "CRUZ",
+    "amaterno": "CERVANTES",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "QUIROPRACTICO",
+    "nombre": "ADOLFO",
+    "apaterno": "CESPÉDES",
+    "amaterno": "CRUZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar de Coordinación Terapeuta",
+    "nombre": "Catalina",
+    "apaterno": "Olvera",
+    "amaterno": "Gutiérrez",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de Desayunos Escolares",
+    "nombre": "Erik Oswaldo",
+    "apaterno": "Camacho",
+    "amaterno": "Villan",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Recepcionista UBRIS",
+    "nombre": "MARIA GUADALUPE",
+    "apaterno": "CAMPOS",
+    "amaterno": "GARCIA",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar de Intendencia",
+    "nombre": "Dora Luz",
+    "apaterno": "Salazar",
+    "amaterno": "Enriquez",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "ENFERMERA",
+    "nombre": "ALMA ROSA",
+    "apaterno": "BENITEZ",
+    "amaterno": "HERNANDEZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Atención Terapeutica",
+    "nombre": "JUANA",
+    "apaterno": "AVILA",
+    "amaterno": "FRANCO",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Auxiliar General",
+    "nombre": "Guadalupe",
+    "apaterno": "Arredonda",
+    "amaterno": "Delgadillo",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "16/01/2016",
+    "telefono": "014659561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Director del Museo Comunitario",
+    "nombre": "Evaristo",
+    "apaterno": "Morales",
+    "amaterno": "Vélez",
+    "area": "27909>>>DIRECCIÓN DE MUSEO COMUNITARIO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949332017",
+    "correo": "museo@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director del Instituto Municipal de la Juventud de Teotihuacan",
+    "nombre": "Eduardo Edmar",
+    "apaterno": "Lozano",
+    "amaterno": "Roldan",
+    "area": "27946>>>INSTITUTO MUNICIPAL DE LA JUVENTUD DE TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949568360",
+    "correo": "juventud@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "German",
+    "apaterno": "Alvarez",
+    "amaterno": "Vigil",
+    "area": "4395>>>DIRECCIÓN DE DESARROLLO URBANO",
+    "fechaAlta": "16/10/2016",
+    "telefono": "015949561686 - 151",
+    "correo": "desurbano@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Victor  Hugo",
+    "apaterno": "Jaramillo",
+    "amaterno": "Blanco",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Tiburcio  Esteban",
+    "apaterno": "Reyes",
+    "amaterno": "Ortiz",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "09/02/2007",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Javier",
+    "apaterno": "Valencia",
+    "amaterno": "Gonzalez",
+    "area": "4085>>>OCTAVA REGIDURÍA",
+    "fechaAlta": "16/10/2016",
+    "telefono": "015949561686 - 137",
+    "correo": "octavaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Ma. De Los Angeles",
+    "apaterno": "Romero",
+    "amaterno": "Islas",
+    "area": "4086>>>NOVENA REGIDURÍA",
+    "fechaAlta": "16/09/2016",
+    "telefono": "015949561686 - 138",
+    "correo": "novenaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR C",
+    "nombre": "Miguel  Angel",
+    "apaterno": "Gonzalez",
+    "amaterno": "Alvarez",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "31/08/2016",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Sergio  Jose",
+    "apaterno": "De La O",
+    "amaterno": "Reyes",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/07/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR C",
+    "nombre": "Francisco",
+    "apaterno": "Hurtado",
+    "amaterno": "Dominguez",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/08/2016",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador de Logistica",
+    "nombre": "Guillermo",
+    "apaterno": "Espinoza",
+    "amaterno": "Badillo",
+    "area": "183>>>TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": 15949561686,
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL D",
+    "nombre": "Serafin",
+    "apaterno": "Arroyo",
+    "amaterno": "Altamirano",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "05/10/1993",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Graciela",
+    "apaterno": "Ramirez",
+    "amaterno": "Valencia",
+    "area": "4083>>>SEXTA REGIDURÍA",
+    "fechaAlta": "16/06/2016",
+    "telefono": "015949561686 - 142",
+    "correo": "sextaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Daniela",
+    "apaterno": "Ruiz",
+    "amaterno": "Serrano",
+    "area": "4086>>>NOVENA REGIDURÍA",
+    "fechaAlta": "16/05/2016",
+    "telefono": "015949561686 - 138",
+    "correo": "novenaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Jorge",
+    "apaterno": "Cervantes",
+    "amaterno": "Cruz",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Mario",
+    "apaterno": "Sanchez",
+    "amaterno": "Aguirre",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "16/03/2016",
+    "telefono": "015949561686 ext 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "María José",
+    "apaterno": "Negrete",
+    "amaterno": "Alva",
+    "area": "4411>>>DIRECCIÓN DE MEDIO AMBIENTE",
+    "fechaAlta": "01/01/2018",
+    "telefono": "015949561686 ext 149",
+    "correo": "medioambiente@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Salvador",
+    "apaterno": "Delgadillo",
+    "amaterno": "Romo",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/08/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR DE LA UNIDAD DE INFORMACIÓN, PLANEACIÓN, PROGRAMACIÓN Y EVALUACIÓN MUNICIPAL",
+    "nombre": "Giovanni  Lino",
+    "apaterno": "Pineda",
+    "amaterno": "Palma",
+    "area": "18950>>>UNIDAD DE INFORMACIÓN, PLANEACIÓN, PROGRAMACIÓN Y EVALUACIÓN MUNICIPAL",
+    "fechaAlta": "18/01/2017",
+    "telefono": "015949561686",
+    "correo": "teotihuacan@gmail.com"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Karla Regina",
+    "apaterno": "Gonzalez",
+    "amaterno": "Romero",
+    "area": "4429>>>OFICIALÍA DEL REGISTRO CIVIL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 125",
+    "correo": "rc@hotmail.com"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Rita",
+    "apaterno": "Camacho",
+    "amaterno": "Islas",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Lucena",
+    "apaterno": "Valencia",
+    "amaterno": "Valencia",
+    "area": "4089>>>CONTRALORÍA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 126",
+    "correo": "contraloria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Rolando  Arsenio",
+    "apaterno": "Hernandez",
+    "amaterno": "Barbara",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/03/1999",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Rogelio  Cristobal",
+    "apaterno": "Torres",
+    "amaterno": "Aguilar",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/10/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Rodrigo",
+    "apaterno": "Gonzalez",
+    "amaterno": "Ramirez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Bety  Roxana",
+    "apaterno": "Hernandez",
+    "amaterno": "Hernandez",
+    "area": "4088>>>SECRETARÍA DEL H. AYUNTAMIENTO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 111",
+    "correo": "secretariaaytto@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Lizbeth",
+    "apaterno": "Nateras",
+    "amaterno": "Nateras",
+    "area": "4410>>>DIRECCIÓN DE TRANSPORTE Y VIALIDAD",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "transporte@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR C",
+    "nombre": "Elliot  Fernando",
+    "apaterno": "Madrid",
+    "amaterno": "Reyes",
+    "area": "4399>>>DIRECCIÓN DE DESARROLLO ECONÓMICO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "(01594)9568972",
+    "correo": "deseconomico@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Zenon",
+    "apaterno": "García",
+    "amaterno": "Martínez",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "18/09/2017",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Concepcion",
+    "apaterno": "Retama",
+    "amaterno": "Perez",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador C",
+    "nombre": "Admi  Uriel",
+    "apaterno": "Delgadillo",
+    "amaterno": "Carrasco",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Roberto",
+    "apaterno": "Hernandez",
+    "amaterno": "X",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2008",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR C",
+    "nombre": "Nadihesda",
+    "apaterno": "Limon",
+    "amaterno": "Espejel",
+    "area": "4395>>>DIRECCIÓN DE DESARROLLO URBANO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 151",
+    "correo": "desurbano@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Alma  Rosa",
+    "apaterno": "Ramirez",
+    "amaterno": "Rivas",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Pedro",
+    "apaterno": "Mayorga",
+    "amaterno": "Zuñiga",
+    "area": "27830>>>DIRECCIÓN DE FOMENTO ARTESANAL Y CULTURA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "(01594)9568411",
+    "correo": "fomentoartesanal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Tomas",
+    "apaterno": "Meneses",
+    "amaterno": "Meneses",
+    "area": "4434>>>INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE TEOTIHUACAN (IMCUFIDET)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 -",
+    "correo": "imcufide@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR C",
+    "nombre": "Alfredo",
+    "apaterno": "Rosales",
+    "amaterno": "Perez",
+    "area": "4399>>>DIRECCIÓN DE DESARROLLO ECONÓMICO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "(01594)9568972",
+    "correo": "deseconomico@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR C",
+    "nombre": "Juan  Carlos",
+    "apaterno": "Sanchez",
+    "amaterno": "Contreras",
+    "area": "4395>>>DIRECCIÓN DE DESARROLLO URBANO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 151",
+    "correo": "desurbano@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Raul",
+    "apaterno": "Reyes",
+    "amaterno": "Rosas",
+    "area": "4426>>>UNIDAD JURÍDICA Y CONSULTIVA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 143",
+    "correo": "ujuridica@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Magali",
+    "apaterno": "Urbina",
+    "amaterno": "Morales",
+    "area": "4426>>>UNIDAD JURÍDICA Y CONSULTIVA",
+    "fechaAlta": "01/03/2016",
+    "telefono": "015949561686 - 143",
+    "correo": "ujuridica@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "CAJERA",
+    "nombre": "Gloria",
+    "apaterno": "Vallejo",
+    "amaterno": "Vargas",
+    "area": "18866>>>COORDINACIÓN DE  BIENESTAR ANIMAL",
+    "fechaAlta": "17/05/1993",
+    "telefono": "015949561686",
+    "correo": "banimal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Juan  Nabor",
+    "apaterno": "Islas",
+    "amaterno": "Valdespino",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 ext 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "SECRETARIA \"B",
+    "nombre": "Rosa  Maria",
+    "apaterno": "Flores",
+    "amaterno": "Aguirre",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "16/10/1997",
+    "telefono": "015949561686 ext 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "CAJERA",
+    "nombre": "Maria  Del Carmen",
+    "apaterno": "Lopez",
+    "amaterno": "Martínez",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "16/09/2004",
+    "telefono": "015949561686 ext 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Issac  Manuel",
+    "apaterno": "Barrera",
+    "amaterno": "Morales",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561686 ext 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Elia",
+    "apaterno": "Mendoza",
+    "amaterno": "Montes",
+    "area": "4080>>>TERCER REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 134",
+    "correo": "terceraregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"B",
+    "nombre": "Carolina",
+    "apaterno": "Olvera",
+    "amaterno": "Hernandez",
+    "area": "4077>>>SINDICATURA",
+    "fechaAlta": "01/01/1994",
+    "telefono": "015949561686 - 119",
+    "correo": "sindicatura@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Yazmin  Anel",
+    "apaterno": "Lopez",
+    "amaterno": "Ortega",
+    "area": "4077>>>SINDICATURA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 119",
+    "correo": "sindicatura@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"B",
+    "nombre": "Maria  Evelia",
+    "apaterno": "Andrade",
+    "amaterno": "Zacarias",
+    "area": "4077>>>SINDICATURA",
+    "fechaAlta": "16/07/2014",
+    "telefono": "015949561686 - 119",
+    "correo": "sindicatura@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Elsa  Areli",
+    "apaterno": "Redonda",
+    "amaterno": "Arredonda",
+    "area": "4083>>>SEXTA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 142",
+    "correo": "sextaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Pedro",
+    "apaterno": "Aguilar",
+    "amaterno": "Rojas",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/07/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Pedro",
+    "apaterno": "Romero",
+    "amaterno": "Rivero",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "14/04/2002",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Pedro",
+    "apaterno": "Aguilar",
+    "amaterno": "Hernandez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/06/1997",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Pablo  Moises",
+    "apaterno": "Martinez",
+    "amaterno": "Hernandez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Mario  Alfredo",
+    "apaterno": "Hernandez",
+    "amaterno": "Godinez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/09/2014",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL D",
+    "nombre": "Maria  Elena",
+    "apaterno": "Peña",
+    "amaterno": "Ñañes",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/03/1988",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Margarito",
+    "apaterno": "Cortes",
+    "amaterno": "Aguirre",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Marcelo",
+    "apaterno": "Hernandez",
+    "amaterno": "Sanchez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "08/08/2013",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Luis  Enrique",
+    "apaterno": "Lopez",
+    "amaterno": "Perez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/07/2013",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Luis",
+    "apaterno": "Garcia",
+    "amaterno": "Alarcon",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Jose  Maria",
+    "apaterno": "Aguilar",
+    "amaterno": "Gomez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/06/2015",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL D",
+    "nombre": "Jose  Manuel Teofilo",
+    "apaterno": "Arroyo",
+    "amaterno": "Rivero",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2015",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Jose  Leonardo",
+    "apaterno": "Ramirez",
+    "amaterno": "Anica",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "31/08/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Jose  Francisco",
+    "apaterno": "Cabrera",
+    "amaterno": "Jimenez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/07/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR  GENERAL",
+    "nombre": "Jose  Alejandro",
+    "apaterno": "Charraga",
+    "amaterno": "Rivero",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Jorge  Mario",
+    "apaterno": "Tellez",
+    "amaterno": "Gonzalez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Jaime",
+    "apaterno": "Tavera",
+    "amaterno": "Perez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/05/2015",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR",
+    "nombre": "Ivan  de Jesús",
+    "apaterno": "Hernandez",
+    "amaterno": "Puga",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/04/2010",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR  GENERAL",
+    "nombre": "Isidro",
+    "apaterno": "Garcia",
+    "amaterno": "Alarcon",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Humberto",
+    "apaterno": "Ortega",
+    "amaterno": "Cervantes",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/06/2015",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Servicios Públicos",
+    "nombre": "Heliodoro",
+    "apaterno": "Romero",
+    "amaterno": "Martínez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Guillermo",
+    "apaterno": "Hernandez",
+    "amaterno": "Martinez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/06/2007",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Felix",
+    "apaterno": "Alarcon",
+    "amaterno": "Cardenas",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/1991",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Ezequias",
+    "apaterno": "Nuñez",
+    "amaterno": "Cruz",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/03/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Emilio  Roberto",
+    "apaterno": "Gonzalez",
+    "amaterno": "Elias",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/07/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"D",
+    "nombre": "Eliseo  Rufino",
+    "apaterno": "Guerrero",
+    "amaterno": "Juarez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "07/02/1990",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR  GENERAL",
+    "nombre": "Eleuterio  Edmundo",
+    "apaterno": "Contreras",
+    "amaterno": "Alva",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Edwin  Fernando",
+    "apaterno": "Gomez",
+    "amaterno": "Gonzalez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/04/2013",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Edgar",
+    "apaterno": "Torres",
+    "amaterno": "Diaz",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador C",
+    "nombre": "Dario Carlos",
+    "apaterno": "Padilla",
+    "amaterno": "Vázquez",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/10/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Camilo",
+    "apaterno": "Santiago",
+    "amaterno": "Bautista",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/04/2002",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Bonifacio",
+    "apaterno": "Munguia",
+    "amaterno": "Bautista",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/08/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR",
+    "nombre": "Blanca  Luz",
+    "apaterno": "Lopez",
+    "amaterno": "Cruz",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2003",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Alfredo",
+    "apaterno": "Martinez",
+    "amaterno": "Rivero",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "16/01/1994",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Alfonso",
+    "apaterno": "Rios",
+    "amaterno": "Zamora",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "13/01/1997",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Tomas",
+    "apaterno": "Contreras",
+    "amaterno": "Macturano",
+    "area": "4084>>>SÉPTIMA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "septimaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "David",
+    "apaterno": "Contreras",
+    "amaterno": "Macturano",
+    "area": "4084>>>SÉPTIMA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "septimaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Rafael",
+    "apaterno": "Flores",
+    "amaterno": "Martinez",
+    "area": "4079>>>SEGUNDA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 140",
+    "correo": "segundaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Tonatiuh Rafael",
+    "apaterno": "Flores",
+    "amaterno": "Cardenas",
+    "area": "4079>>>SEGUNDA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 140",
+    "correo": "segundaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Diana Yuzeth",
+    "apaterno": "Valencia",
+    "amaterno": "Mendoza",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "18/09/2017",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Graciela",
+    "apaterno": "Mendoza",
+    "amaterno": "Hernández",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Coordinador C",
+    "nombre": "Blanca Magnolia",
+    "apaterno": "Rivas",
+    "amaterno": "Albarrán",
+    "area": "4088>>>SECRETARÍA DEL H. AYUNTAMIENTO",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 111",
+    "correo": "secretariaaytto@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Edith",
+    "apaterno": "Guzman",
+    "amaterno": "Oliva",
+    "area": "4429>>>OFICIALÍA DEL REGISTRO CIVIL",
+    "fechaAlta": "12/02/2013",
+    "telefono": "015949561686 - 125",
+    "correo": "rc@hotmail.com"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Francisco",
+    "apaterno": "Rodríguez",
+    "amaterno": "Sánchez",
+    "area": "4082>>>QUINTA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 141",
+    "correo": "quintaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Margarita",
+    "apaterno": "Ramirez",
+    "amaterno": "Nieves",
+    "area": "4078>>>PRIMERA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "primerregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "América Jazmín",
+    "apaterno": "Rivera",
+    "amaterno": "García",
+    "area": "4078>>>PRIMERA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "primerregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"A",
+    "nombre": "Sotero",
+    "apaterno": "Garcia",
+    "amaterno": "Anaya",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "01/07/2002",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Widnie  Christian",
+    "apaterno": "Muñoz",
+    "amaterno": "Cervantes",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "07/02/2016",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Jaqueline",
+    "apaterno": "Reyes",
+    "amaterno": "Sarabia",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Daniel",
+    "apaterno": "Hernandez",
+    "amaterno": "Davila",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO",
+    "nombre": "Adrian",
+    "apaterno": "Villalpando",
+    "amaterno": "Velazquez",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "19/05/1997",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"A",
+    "nombre": "Roberto",
+    "apaterno": "Rodriguez",
+    "amaterno": "Castañeda",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "16/05/2001",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Raymundo",
+    "apaterno": "Rivas",
+    "amaterno": "Bautista",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "16/04/2009",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"C",
+    "nombre": "Francisco",
+    "apaterno": "Ortega",
+    "amaterno": "Tenorio",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "17/04/1997",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Armando  Genaro",
+    "apaterno": "Reyes",
+    "amaterno": "Alonso",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Silvestre  Arturo",
+    "apaterno": "Beltran",
+    "amaterno": "Castro",
+    "area": "4392>>>DIRECCIÓN DE OBRAS PÚBLICAS",
+    "fechaAlta": "16/09/2009",
+    "telefono": "015949561686 - 109",
+    "correo": "obraspublicas@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Josefina",
+    "apaterno": "Gradas",
+    "amaterno": "Mendez",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "01/04/2016",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Rocio",
+    "apaterno": "Alba",
+    "amaterno": "Acosta",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "16/03/2016",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Laura",
+    "apaterno": "Gutierrez",
+    "amaterno": "Vazquez",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"B",
+    "nombre": "Yeni  Laura",
+    "apaterno": "Rivas",
+    "amaterno": "Urbina",
+    "area": "4399>>>DIRECCIÓN DE DESARROLLO ECONÓMICO",
+    "fechaAlta": "16/02/1998",
+    "telefono": "(01594)9568972",
+    "correo": "deseconomico@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"A",
+    "nombre": "Urbano",
+    "apaterno": "Redonda",
+    "amaterno": "Hernandez",
+    "area": "4405>>>COORDINACIÓN DE FOMENTO AGRUPECUARIO",
+    "fechaAlta": "01/07/2014",
+    "telefono": "015949561686",
+    "correo": "desagropecuario@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "COORDINADOR \"C",
+    "nombre": "Cutberto",
+    "apaterno": "Cervantes",
+    "amaterno": "Salinas",
+    "area": "4405>>>COORDINACIÓN DE FOMENTO AGRUPECUARIO",
+    "fechaAlta": "16/08/2005",
+    "telefono": "015949561686",
+    "correo": "desagropecuario@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Yani  Alfredo",
+    "apaterno": "Rangel",
+    "amaterno": "Gutiérrez",
+    "area": "4081>>>CUARTA REGIDURÍA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 135",
+    "correo": "cuartaregiduria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE",
+    "nombre": "Leticia",
+    "apaterno": "Galicia",
+    "amaterno": "Mendez",
+    "area": "27909>>>DIRECCIÓN DE MUSEO COMUNITARIO",
+    "fechaAlta": "01/02/2016",
+    "telefono": "(01594)9332017",
+    "correo": "museo@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUX. ADMINISTRATIVO \"B",
+    "nombre": "Tania  Cecilia",
+    "apaterno": "Alarcon",
+    "amaterno": "Avendaño",
+    "area": "27830>>>DIRECCIÓN DE FOMENTO ARTESANAL Y CULTURA",
+    "fechaAlta": "01/11/2012",
+    "telefono": "(01594)9568411",
+    "correo": "fomentoartesanal@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Laura",
+    "apaterno": "Escamilla",
+    "amaterno": "Martinez",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Mayra",
+    "apaterno": "Blanco",
+    "amaterno": "Contreras",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/04/2015",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Auxiliar Administrativo",
+    "nombre": "Lorena",
+    "apaterno": "Vazquez",
+    "amaterno": "Sil",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR",
+    "nombre": "Esperanza",
+    "apaterno": "Olvera",
+    "amaterno": "Quiroz",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/07/2002",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR",
+    "nombre": "Catalina",
+    "apaterno": "Cruz",
+    "amaterno": "Doroteo",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "08/01/1997",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL D",
+    "nombre": "Josefa",
+    "apaterno": "Arredonda",
+    "amaterno": "Aveldan",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "13/01/1997",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Laura",
+    "apaterno": "Alva",
+    "amaterno": "Garcia",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "01/03/2016",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Maria  Bernardina",
+    "apaterno": "Leon",
+    "amaterno": "Herrera",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "16/06/2016",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AYUDANTE GENERAL",
+    "nombre": "Maura  Noemi",
+    "apaterno": "Castro",
+    "amaterno": "Rodriguez",
+    "area": "4093>>>DIRECCIÓN DE ADMINISTRACIÓN",
+    "fechaAlta": "16/09/2014",
+    "telefono": "015949561686 - 112",
+    "correo": "administracion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Sub-inspector",
+    "nombre": "Ricardo",
+    "apaterno": "Cruz",
+    "amaterno": "Montiel",
+    "area": "4394>>>COMISARIA DE SEGURIDAD CIUDADANA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561674",
+    "correo": "seguridadc@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "POLICIA PRIMERO (Subdirectora Administrativa)",
+    "nombre": "Miriam",
+    "apaterno": "Torres",
+    "amaterno": "Andrade",
+    "area": "4394>>>COMISARIA DE SEGURIDAD CIUDADANA",
+    "fechaAlta": "01/03/2013",
+    "telefono": "015949561674",
+    "correo": "seguridadc@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Juan  Carlos",
+    "apaterno": "Mendoza",
+    "amaterno": "Cervantes",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/09/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Adrian Francisco",
+    "apaterno": "Velazquez",
+    "amaterno": "Ramirez",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "31/08/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Maria  De Los Angeles",
+    "apaterno": "Martinez",
+    "amaterno": "Kim",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "01/02/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Argenis Daniel",
+    "apaterno": "Leon",
+    "amaterno": "López",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "15/01/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Vicente",
+    "apaterno": "Velazquez",
+    "amaterno": "Sanchez",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/01/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Sergio",
+    "apaterno": "Cruz",
+    "amaterno": "Mora",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/01/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Jaime  De Jesus",
+    "apaterno": "Perez",
+    "amaterno": "Plaza",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/01/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Eduardo Nahum",
+    "apaterno": "Cruz",
+    "amaterno": "Baños",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/01/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Miriam Angélica",
+    "apaterno": "Cervantes",
+    "amaterno": "Mata",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/01/2016",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Alfredo",
+    "apaterno": "Tavera",
+    "amaterno": "Gonzalez",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "22/07/2014",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Marcos Aaron",
+    "apaterno": "Alva",
+    "amaterno": "Vazquez",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "01/05/2013",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "Rodolfo",
+    "apaterno": "Valenzuela",
+    "amaterno": "Lemus",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "15/01/2013",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Tesorero",
+    "nombre": "RAMIRO ANDRES",
+    "apaterno": "CABRERA",
+    "amaterno": "ROSAS",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Directora",
+    "nombre": "MA. MAXIMINA",
+    "apaterno": "CESPEDES",
+    "amaterno": "HERNANDEZ",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "21/09/2016",
+    "telefono": "015646461134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "Presidenta del Sistema Municipal para el Desarrollo Integral de la Fanilia de Teotihuacán (DIF) con carácter de Honorífico.",
+    "nombre": "Laura Elena",
+    "apaterno": "Cantú",
+    "amaterno": "Nieves",
+    "area": "4431>>>SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561134",
+    "correo": "difteotidireccion@gmail.com"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "CIRO",
+    "apaterno": "BAEZ",
+    "amaterno": "SANCHEZ",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/09/2003",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "OPERADOR PROTECCION CIVIL",
+    "nombre": "JULIO CESAR",
+    "apaterno": "AVILA",
+    "amaterno": "GOMEZ",
+    "area": "4397>>>COORDINACIÓN DE PROTECCIÓN CIVIL",
+    "fechaAlta": "16/01/2011",
+    "telefono": "(01594) 9568483",
+    "correo": "pcivil@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Fontanero C",
+    "nombre": "Jose Roberto",
+    "apaterno": "Sanchez",
+    "amaterno": "Contreras",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Chofer A",
+    "nombre": "Jose Magdaleno",
+    "apaterno": "Hernandez",
+    "amaterno": "Muñoz",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Notificador",
+    "nombre": "Agustina Sonia",
+    "apaterno": "Badillo",
+    "amaterno": "Aguilar",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Notificador",
+    "nombre": "Lena Elizabeth",
+    "apaterno": "Miranda",
+    "amaterno": "Tapia",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Cajero",
+    "nombre": "Brianda Lucero",
+    "apaterno": "Arellano",
+    "amaterno": "Rodriguez",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Encargado de pozo B",
+    "nombre": "Luis alberto",
+    "apaterno": "Sarabia",
+    "amaterno": "Martinez",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Jefe de Cobranza",
+    "nombre": "Juan Carlos",
+    "apaterno": "Martinez",
+    "amaterno": "Ruiz",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Fontanero C",
+    "nombre": "Enrique",
+    "apaterno": "Roldan",
+    "amaterno": "Martinez",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Fontanero B",
+    "nombre": "Mario",
+    "apaterno": "Rivero",
+    "amaterno": "Minchaca",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Encargado de pozo C",
+    "nombre": "Mario",
+    "apaterno": "Rea",
+    "amaterno": "Echegaray",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Encargado de pozo A",
+    "nombre": "Loreto",
+    "apaterno": "Escobar",
+    "amaterno": "Cespedes",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Fontanero A",
+    "nombre": "Carmelo",
+    "apaterno": "Ramirez",
+    "amaterno": "Valencia",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Notificador",
+    "nombre": "Matilde Bianey",
+    "apaterno": "Andrade",
+    "amaterno": "Cermeño",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Asesor",
+    "nombre": "Efrain",
+    "apaterno": "Herrera",
+    "amaterno": "Urbina",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Titular de  Unidad de Transparencia",
+    "nombre": "Marco Antonio",
+    "apaterno": "Macías",
+    "amaterno": "de la O",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015949568360",
+    "correo": "teotihuacan@itaipem.org.mx"
+  },
+  {
+    "cargo": "DIRECTORA DE FINANZAS DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE TEOTIHUACAN (ODEAPAST)",
+    "nombre": "Rosita",
+    "apaterno": "Pacheco",
+    "amaterno": "Bello",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "13/02/2018",
+    "telefono": "015949562877",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director del Instituto Municipal de Cultura Física",
+    "nombre": "Juan Miguel",
+    "apaterno": "Aguilar",
+    "amaterno": "Ríos",
+    "area": "4434>>>INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE TEOTIHUACAN (IMCUFIDET)",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949562877 -",
+    "correo": "imcufide@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Titular del Instituto para la Protección de los De",
+    "nombre": "Marisol",
+    "apaterno": "Hernández",
+    "amaterno": "Pérez",
+    "area": "4433>>>INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS MUJERES DE TEOTIHUACAN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949569601",
+    "correo": "mujeres@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "DIRECTOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE TEOTIHUACAN (ODEAPAST)",
+    "nombre": "Omar",
+    "apaterno": "Paredes",
+    "amaterno": "Sarabia",
+    "area": "4432>>>ORGANISMO PÚBLICO DESCENTRALIZADO PARA LA PRESTACIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TEOTIHUACAN (ODEAPAST)",
+    "fechaAlta": "15/11/2017",
+    "telefono": "015949562877 - 605",
+    "correo": "odeapast@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Directora de Catastro y Tenencia de la Tierra",
+    "nombre": "Ada Patricia",
+    "apaterno": "Sánchez",
+    "amaterno": "Díaz",
+    "area": "4425>>>DIRECCIÓN DE CATASTRO Y TENENCIA DE LA TIERRA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 133",
+    "correo": "catastro@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "nombre": "Abraham",
+    "apaterno": "Sanchez",
+    "amaterno": "Diaz",
+    "area": "4424>>>DIRECCIÓN DE SERVICIOS PÚBLICOS",
+    "fechaAlta": "01/02/2016",
+    "telefono": "015949561686 - 157",
+    "correo": "servpublicos@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Encargado del Despacho de la Dirección de Medio Ambiente",
+    "nombre": "Isaim Eulogio",
+    "apaterno": "Olvera",
+    "amaterno": "Aguilar",
+    "area": "4411>>>DIRECCIÓN DE MEDIO AMBIENTE",
+    "fechaAlta": "07/03/2018",
+    "telefono": "015949561686 ext 149",
+    "correo": "medioambiente@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Transporte y Vialidad",
+    "nombre": "Rosendo",
+    "apaterno": "Badillo",
+    "amaterno": "Aguirre",
+    "area": "4410>>>DIRECCIÓN DE TRANSPORTE Y VIALIDAD",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "transporte@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Desarrollo Metropolitano y Participación Ciudadana",
+    "nombre": "Luis Ángel",
+    "apaterno": "Sánchez",
+    "amaterno": "Badillo",
+    "area": "4408>>>COORDINACIÓN DE DESARROLLO METROPOLITANO",
+    "fechaAlta": "13/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "desmetropolitano@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Directora de Turismo",
+    "nombre": "Samara Mitzi",
+    "apaterno": "Reyes",
+    "amaterno": "Pastrana",
+    "area": "4407>>>DIRECCIÓN DE TURISMO",
+    "fechaAlta": "14/06/2017",
+    "telefono": "015949561686",
+    "correo": "turismo@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Desarrollo Agropecuario y Bienestar Animal",
+    "nombre": "Vicente",
+    "apaterno": "Rodríguez",
+    "amaterno": "Campos",
+    "area": "4405>>>COORDINACIÓN DE FOMENTO AGRUPECUARIO",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686",
+    "correo": "desagropecuario@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Educación",
+    "nombre": "Severiano Francisco",
+    "apaterno": "Martínez",
+    "amaterno": "Mendez",
+    "area": "4402>>>COORDINACIÓN DE EDUCACIÓN",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 -",
+    "correo": "educacion@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Desarrollo Social",
+    "nombre": "Aldo Miguel",
+    "apaterno": "Díaz",
+    "amaterno": "Cervantes",
+    "area": "4401>>>DIRECCIÓN DE DESARROLLO SOCIAL",
+    "fechaAlta": "20/02/2018",
+    "telefono": "015949561686 - 113",
+    "correo": "desasocial@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Director de Desarrollo Económico",
+    "nombre": "Jorge Victor Hugo",
+    "apaterno": "Sánchez",
+    "amaterno": "García",
+    "area": "4399>>>DIRECCIÓN DE DESARROLLO ECONÓMICO",
+    "fechaAlta": "15/08/2018",
+    "telefono": "(01594)9568972",
+    "correo": "deseconomico@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Subtesorero Municipal",
+    "nombre": "Patricio",
+    "apaterno": "Gutiérrez",
+    "amaterno": "Ortiz",
+    "area": "4092>>>TESORERÍA MUNICIPAL",
+    "fechaAlta": "11/10/2016",
+    "telefono": "015949561686 ext 115",
+    "correo": "tesoreria@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Secretario Técnico",
+    "nombre": "Sigfredo",
+    "apaterno": "Badillo",
+    "amaterno": "Curiel",
+    "area": "4091>>>SECRETARÍA TÉCNICA",
+    "fechaAlta": "01/01/2016",
+    "telefono": "015949561686 - 127",
+    "correo": "sriatecnica@teotihuacan.gob.mx"
+  },
+  {
+    "cargo": "Presidente Municipal",
+    "nombre": "Jaime",
+    "apaterno": "Heredia",
+    "amaterno": "Ángeles",
+    "area": "3185>>>PRESIDENCIA MUNICIPAL",
+    "fechaAlta": "01/01/2019",
+    "telefono": "015949568360",
+    "correo": "presidenciamunicipal@teotihuacan.gob.mx"
+  }
+]

@@ -1,9 +1,31 @@
 <ion-header>
-  <ion-toolbar>
-    <ion-title>gobierno</ion-title>
-  </ion-toolbar>
+    <ion-toolbar>
+      <ion-title>Gobierno {{data.getMunicipioByKey(municipio)}}</ion-title>
+      <ion-buttons slot="start">
+          <ion-back-button defaultHref="home"></ion-back-button>
+      </ion-buttons>
+    </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
-
+  <ion-list>
+      <ion-item [routerDirection]="'root'" [routerLink]="'../gobernante'" button>
+        <ion-icon slot="start" name="people" style="color:cornflowerblue"></ion-icon>
+        <ion-label>
+          <h3>Gobernantes</h3>
+        </ion-label>
+      </ion-item>
+      <ion-item button>
+        <ion-icon slot="start" name="paper" style="color: blue"></ion-icon>
+        <ion-label>
+          <h3>Programas sociales</h3>
+        </ion-label>
+      </ion-item>
+      <ion-item button>
+        <ion-icon slot="start" name="calendar" style="color: blue"></ion-icon>
+        <ion-label>
+          <h3>Eventos</h3>
+        </ion-label>
+      </ion-item>
+    </ion-list>
 </ion-content>

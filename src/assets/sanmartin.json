@@ -1,0 +1,712 @@
+[
+  {
+    "cargo": "Director de Administración",
+    "nombre": "Daniel",
+    "apaterno": "Mendoza",
+    "amaterno": "Sánchez",
+    "area": "16103>>>Direccion de Administracion",
+    "fechaAlta": "25/01/2019",
+    "telefono": "59482054 ext. 104",
+    "correo": "direcciondmnstrcscsmp1921@gmail.com"
+  },
+  {
+    "cargo": "Directora del DIF Municipal",
+    "nombre": "Barbara",
+    "apaterno": "Ruiz",
+    "amaterno": "Contla",
+    "area": "27102>>>DIRECCIÓN DEL SISTEMA MUNICIPAL DIF",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "DIFMUNICIPALSMP@GMAIL.COM"
+  },
+  {
+    "cargo": "Oficial Conciliador-Mediador",
+    "nombre": "Erik Martín",
+    "apaterno": "Vega",
+    "amaterno": "Díaz",
+    "area": "16084>>>Oficial Mediador-Conciliador",
+    "fechaAlta": "16/01/2019",
+    "telefono": 5948582091,
+    "correo": "erickvega881@gmail.com"
+  },
+  {
+    "cargo": "Coordinadora de comunicación social",
+    "nombre": "Elvira",
+    "apaterno": "Monterrubio",
+    "amaterno": "Redonda",
+    "area": "16160>>>Coordinacion de Comunicacion Social",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "angiejt19@hotmail.com"
+  },
+  {
+    "cargo": "Secretario Técnico de Seguridad Pública",
+    "nombre": "Oscar Eduardo",
+    "apaterno": "Blanco",
+    "amaterno": "López",
+    "area": "27535>>>Direccion de Seguridad Ciudadana",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "NA"
+  },
+  {
+    "cargo": "Coordinador de Mantenimiento Vehicular",
+    "nombre": "Miguel Angel",
+    "apaterno": "Blanco",
+    "amaterno": "Aguirre",
+    "area": "27534>>>Coordinacion de Mantenimiento Vehicular y Combustibles",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "sheldon201601@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de la UIPPE",
+    "nombre": "Christian Johan",
+    "apaterno": "Sandoval",
+    "amaterno": "Hernández",
+    "area": "16154>>>Coordinacion de Planeacion, Evaluacion y Seguimiento",
+    "fechaAlta": "16/01/2019",
+    "telefono": 5948582091,
+    "correo": "christianjosaher@gmail,com"
+  },
+  {
+    "cargo": "Coordinador de la Casa de la Tierra",
+    "nombre": "Rodrigo Alfredo",
+    "apaterno": "Salas",
+    "amaterno": "Sánchez",
+    "area": "16097>>>Direccion de Desarrollo Agropecuario, Ecologia y Medio Ambiente",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "Na"
+  },
+  {
+    "cargo": "Coordinadora de Limpia, Parques y Jardines",
+    "nombre": "Maria Teresa",
+    "apaterno": "Balderas",
+    "amaterno": "Sánchez",
+    "area": "16090>>>Coordinacion de Limpia, Parques y Jardines",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "limpiaparquesjardinessmp1921@gmail.com"
+  },
+  {
+    "cargo": "Secretario Particular",
+    "nombre": "Jose Guadalupe",
+    "apaterno": "Jimenez",
+    "amaterno": "Reyes",
+    "area": "15964>>>Secretaria Particular",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "NA"
+  },
+  {
+    "cargo": "Coordinador de Casa de Cultura",
+    "nombre": "Cristobal Alejandro",
+    "apaterno": "Sanchez",
+    "amaterno": "Oliva",
+    "area": "16102>>>Coordinacion de Casa de Cultura",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "NA"
+  },
+  {
+    "cargo": "Coordinadora de Empleo",
+    "nombre": "Agatonica",
+    "apaterno": "Gómez",
+    "amaterno": "Sánchez",
+    "area": "16093>>>Coordinación de Fomento al Empleo",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "fatis13alexis2@gmail.com"
+  },
+  {
+    "cargo": "Coordinadora de Desarrollo Económico",
+    "nombre": "Diana Emilia",
+    "apaterno": "Juárez",
+    "amaterno": "Sandoval",
+    "area": "16080>>>Direccion de Desarrollo Economico",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "Na"
+  },
+  {
+    "cargo": "Director de Limites Territoriales",
+    "nombre": "Margarito",
+    "apaterno": "Rodriguez",
+    "amaterno": "de Lucio",
+    "area": "15897>>>Presidencia Municipal",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "monseaguilar2020@gmail.com"
+  },
+  {
+    "cargo": "Contadora General",
+    "nombre": "Eladia",
+    "apaterno": "Andrade",
+    "amaterno": "Medina",
+    "area": "15975>>>Tesoreria Municipal",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "panme76@hotmail.com"
+  },
+  {
+    "cargo": "Jefe de Departamento de Catastro",
+    "nombre": "Reyna",
+    "apaterno": "Mendoza",
+    "amaterno": "Limon",
+    "area": "16086>>>Direccion de Desarrollo Urbano y Catastro",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "Director de Catastro",
+    "nombre": "Ozhiel",
+    "apaterno": "Alva",
+    "amaterno": "Ortega",
+    "area": "16086>>>Direccion de Desarrollo Urbano y Catastro",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "piramidescatastro@gmail.com"
+  },
+  {
+    "cargo": "Director de Desarrollo Urbano",
+    "nombre": "Baltazar",
+    "apaterno": "Martínez",
+    "amaterno": "Ortíz",
+    "area": "16086>>>Direccion de Desarrollo Urbano y Catastro",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "desarrollorbano.smp1921@gmial.com"
+  },
+  {
+    "cargo": "Director de Desarrollo Urbano",
+    "nombre": "Baltazar",
+    "apaterno": "Martínez",
+    "amaterno": "Ortíz",
+    "area": "16086>>>Direccion de Desarrollo Urbano y Catastro",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "desarrollorbano.smp1921@gmial.com"
+  },
+  {
+    "cargo": "Directora de Atención a la Mujer",
+    "nombre": "Raquel Deyna",
+    "apaterno": "Beltran",
+    "amaterno": "Beltran",
+    "area": "16368>>>Dirección de Atención a la Mujer y a la Equidad de Genero",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "bren19@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de Salud Pública",
+    "nombre": "Erick Alberto",
+    "apaterno": "Muralla",
+    "amaterno": "Sil",
+    "area": "21407>>>Direccion de Salud",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "Coordinador de Panteones",
+    "nombre": "Jose Luis",
+    "apaterno": "Rodriguez",
+    "amaterno": "Serrano",
+    "area": "16091>>>Coordinacion de Panteones",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "panteonessmp1921@gmail.com"
+  },
+  {
+    "cargo": "Oficial de Registro Civil",
+    "nombre": "David",
+    "apaterno": "Ramirez",
+    "amaterno": "Martínez",
+    "area": "16036>>>Oficialia del Registro Civil",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "oficialiasmp19.21@gmail.com"
+  },
+  {
+    "cargo": "Director de Obras Públicas",
+    "nombre": "Jose Ivan",
+    "apaterno": "Rodriguez",
+    "amaterno": "Alva",
+    "area": "16106>>>Direccion de Obras Publicas",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "obras_sanmartin_2019-21@outlook.com"
+  },
+  {
+    "cargo": "Director de Desarrollo Economico",
+    "nombre": "Joel",
+    "apaterno": "Badillo",
+    "amaterno": "Hernandez",
+    "area": "16080>>>Direccion de Desarrollo Economico",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "desarrolloeconomicosmp1921@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de Comercio, Industria, Vía Pública y Mercado",
+    "nombre": "Jose",
+    "apaterno": "Salazar",
+    "amaterno": "Sotero",
+    "area": "16075>>>Coordinacion de Comercio, Industria, Via Publica y Mercados",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "comerciosmp2019@gmail.com"
+  },
+  {
+    "cargo": "Director de Ecología y Medio Ambiente",
+    "nombre": "Hector",
+    "apaterno": "Guzmán",
+    "amaterno": "Gutiérrez",
+    "area": "16097>>>Direccion de Desarrollo Agropecuario, Ecologia y Medio Ambiente",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "direcologias@hotmail.com"
+  },
+  {
+    "cargo": "Director de Desarrollo Agropecuario",
+    "nombre": "Octavio Felix",
+    "apaterno": "Herrera",
+    "amaterno": "Gonzalez",
+    "area": "16097>>>Direccion de Desarrollo Agropecuario, Ecologia y Medio Ambiente",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "desagropsmp1921@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de Desarrollo Social",
+    "nombre": "Beatriz",
+    "apaterno": "De Lucio",
+    "amaterno": "Nieves",
+    "area": "16095>>>Direccion de Desarrollo Social",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "ytteb_dl1624@outlook.com"
+  },
+  {
+    "cargo": "Directora de Educación",
+    "nombre": "Julia Norma",
+    "apaterno": "De Lucio",
+    "amaterno": "Baños",
+    "area": "16099>>>Direccion de Educacion",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "direduca1921@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de Turismo",
+    "nombre": "Eduardo",
+    "apaterno": "Meza",
+    "amaterno": "Juárez",
+    "area": "16088>>>Direccion de Turismo",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "turismosmp1921@gmail.com"
+  },
+  {
+    "cargo": "Coordinación de Control Patrimonial",
+    "nombre": "Monserrat",
+    "apaterno": "Aguilar",
+    "amaterno": "de la Rosa",
+    "area": "16150>>>Archivo Municipal y Control Patrimonial",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "controlpatrimonialsmp@gmail.com"
+  },
+  {
+    "cargo": "Coordinador de fomento artesanal",
+    "nombre": "Adolfo Emigdio",
+    "apaterno": "Moreno",
+    "amaterno": "Martínez",
+    "area": "16088>>>Direccion de Turismo",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "fomentoartesanalsmp19.21@gmail.com"
+  },
+  {
+    "cargo": "Coordinación Municipal de bibliotecas",
+    "nombre": "Anselma Leticia",
+    "apaterno": "Alvarez",
+    "amaterno": "Dorantes",
+    "area": "16100>>>Coordinacion de Bibliotecas",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "coorbibliotecasmp1921@gmail.com"
+  },
+  {
+    "cargo": "OFICIAL CONCILIADOR",
+    "nombre": "ANA ANGELICA",
+    "apaterno": "Mendoza",
+    "amaterno": "Cordoba",
+    "area": "15997>>>Oficialia conciliadora, mediadora y calificadora",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "oficialiasmp19.21@gmail.com"
+  },
+  {
+    "cargo": "Encargado de Archivo y Control Patrimonial",
+    "nombre": "Aristarco",
+    "apaterno": "Gomez",
+    "amaterno": "Mendoza",
+    "area": "16150>>>Archivo Municipal y Control Patrimonial",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "archivomunicipalsmp@gmail.com"
+  },
+  {
+    "cargo": "DIRECTOR DEL INSTITUTO MUNICIPAL DE LA JUVENTUD",
+    "nombre": "Arturo",
+    "apaterno": "Vásquez",
+    "amaterno": "Olvera",
+    "area": "15897>>>Presidencia Municipal",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "institutodelajuventud1921@gmail.com"
+  },
+  {
+    "cargo": "DIRECTOR DE INCUFIDE",
+    "nombre": "TEODORO",
+    "apaterno": "SANCHEZ",
+    "amaterno": "LUCERO",
+    "area": "166>>>SAN MARTIN DE LAS PIRAMIDES",
+    "fechaAlta": "01/01/2019",
+    "telefono": "NA",
+    "correo": "nsergio326@gmail.com"
+  },
+  {
+    "cargo": "DIRECTORA DE TURISMO",
+    "nombre": "ROSA ANGELICA",
+    "apaterno": "DIAZ",
+    "amaterno": "BENITEZ",
+    "area": "16088>>>Direccion de Turismo",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "30angelicadiaz@gmail.com"
+  },
+  {
+    "cargo": "DIRECTOR DE SERVICIOS PUBLICOS",
+    "nombre": "ISIDRO",
+    "apaterno": "PEREZ",
+    "amaterno": "FRANCO",
+    "area": "16089>>>Direccion de Servicios Publicos",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "servipusmp1921@hotmail.com"
+  },
+  {
+    "cargo": "DIRECTOR DE PROTECCION CIVIL Y BOMBEROS",
+    "nombre": "URBANO ROGELIO",
+    "apaterno": "ROJAS",
+    "amaterno": "BELTRAN",
+    "area": "21411>>>Direccion de Proteccion Civil y Bomberos",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "rojas.beltran234@hotmail.com"
+  },
+  {
+    "cargo": "ENCARGADA DE DESPACHO DE LA DIRECCIÓN DE SEGURIDAD PUBLICA",
+    "nombre": "AGNELA DIMPNA",
+    "apaterno": "BENITEZ",
+    "amaterno": "ESTEVEZ",
+    "area": "27535>>>Direccion de Seguridad Ciudadana",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "luci.030362@oulook.com"
+  },
+  {
+    "cargo": "DIRECTOR DE CASA DE CULTURA",
+    "nombre": "JOSE ANTONIO",
+    "apaterno": "FERNANDEZ",
+    "amaterno": "REYES",
+    "area": "22072>>>Direccion de Casa de Cultura",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "casadeculturasmp1921@gmail.com"
+  },
+  {
+    "cargo": "DIRECTORA DE JURIDICO Y CONSULTIVO",
+    "nombre": "ITZAYANA",
+    "apaterno": "PORCAYO",
+    "amaterno": "DIAZ",
+    "area": "16148>>>Direccion Juridica y Consultiva",
+    "fechaAlta": "01/01/2019",
+    "telefono": "5949582011 ext 104",
+    "correo": "d.juridicayconsultivasmp1921@gmail.com"
+  },
+  {
+    "cargo": "DIRECTOR DE GOBIERNO",
+    "nombre": "JUAN",
+    "apaterno": "IBARRA",
+    "amaterno": "GUTIERREZ",
+    "area": "27533>>>Direccion de Gobierno",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "dirgobiernosmp2019@gmail.com"
+  },
+  {
+    "cargo": "DIRECTORA DE ATENCIÓN ALA MUJER",
+    "nombre": "RAQUEL DEYNA",
+    "apaterno": "BELTRAN",
+    "amaterno": "BELTRAN",
+    "area": "16368>>>Dirección de Atención a la Mujer y a la Equidad de Genero",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "COORDINADOR DE ATENCIÓN A LA JUVENTUD",
+    "nombre": "ARTURO",
+    "apaterno": "VASQUEZ",
+    "amaterno": "OLVERA",
+    "area": "16040>>>Coordinacion de Atencion a la Juventud",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "institutodelajuventud1921@gmail.com"
+  },
+  {
+    "cargo": "DIRECTORA DE DESARROLLO SOCIAL",
+    "nombre": "Sandra María",
+    "apaterno": "Reyes",
+    "amaterno": "Martínez",
+    "area": "16095>>>Direccion de Desarrollo Social",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "ddspiramides19_21@yahoo.com"
+  },
+  {
+    "cargo": "DIRECTOR DE COMUNICACIÓN Y MOVILIDAD",
+    "nombre": "LAZARO",
+    "apaterno": "MARTINEZ",
+    "amaterno": "GARCIA",
+    "area": "27116>>>Direccion de Comunicaciones y Movilidad",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "lmg_571219@hotmail.com"
+  },
+  {
+    "cargo": "DIRECTOR DE SALUD PUBLICA MUNICIPAL",
+    "nombre": "ALFREDO",
+    "apaterno": "MUJICA",
+    "amaterno": "CHILACA",
+    "area": "21407>>>Direccion de Salud",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "atencionalasalud_2019@hotmail.com"
+  },
+  {
+    "cargo": "COORDINACIÓN DE ADMINISTRACIÓN",
+    "nombre": "EVERARDO",
+    "apaterno": "TORRES",
+    "amaterno": "BARRIGA",
+    "area": "16103>>>Direccion de Administracion",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "dmendozas1@hotmail.com"
+  },
+  {
+    "cargo": "TESORERO DIF",
+    "nombre": "TERESA LILI",
+    "apaterno": "BENITEZ",
+    "amaterno": "GÓMEZ",
+    "area": "20461>>>TESORERIA DEL SISTEMA MUNICIPAL DIF",
+    "fechaAlta": "01/01/2019",
+    "telefono": "5949583060 ext 604",
+    "correo": "tesodifsmp1921@gmail.com"
+  },
+  {
+    "cargo": "TESORERO DIF",
+    "nombre": "TERESA LILI",
+    "apaterno": "BENITEZ",
+    "amaterno": "GÓMEZ",
+    "area": "20461>>>TESORERIA DEL SISTEMA MUNICIPAL DIF",
+    "fechaAlta": "01/01/2019",
+    "telefono": "5949583060 ext 604",
+    "correo": "tesodifsmp1921@gmail.com"
+  },
+  {
+    "cargo": "DECIMA REGIDURIA",
+    "nombre": "JORGE",
+    "apaterno": "MORALES",
+    "amaterno": "ALARCON",
+    "area": "15962>>>Decima Regiduria",
+    "fechaAlta": "01/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "NOVENA REGIDURIA",
+    "nombre": "ANGELICA MARIA",
+    "apaterno": "ALVA",
+    "amaterno": "MARTINEZ",
+    "area": "15961>>>Novena Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "OCTAVA REGIDURIA",
+    "nombre": "LAKSHMI NAHOMI",
+    "apaterno": "RUIZ",
+    "amaterno": "GARCIA",
+    "area": "15960>>>Octava Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SEPTIMA REGIDURIA",
+    "nombre": "IVAN DE JESUS",
+    "apaterno": "MARTINEZ",
+    "amaterno": "BARRAGAN",
+    "area": "15958>>>Septima Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SEXTA REGIDURIA",
+    "nombre": "MA. ANGELICA",
+    "apaterno": "JUAREZ",
+    "amaterno": "TORRES",
+    "area": "15957>>>Sexta Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "QUINTA REGIDURIA",
+    "nombre": "LUIS",
+    "apaterno": "GARCIA",
+    "amaterno": "MEDINA",
+    "area": "15956>>>Quinta Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "CUARTE REGIDURIA",
+    "nombre": "MARIA IRMA",
+    "apaterno": "HERNANDEZ",
+    "amaterno": "MARTINEZ",
+    "area": "15954>>>Cuarta Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "TERCER REGIDURIA",
+    "nombre": "JOSE ALBERTO OMAR",
+    "apaterno": "LOPEZ",
+    "amaterno": "HERNANDEZ",
+    "area": "15953>>>Tercer Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "SEGUNDA REGIDURIA",
+    "nombre": "SELENE",
+    "apaterno": "HERNANDEZ",
+    "amaterno": "RAMIREZ",
+    "area": "166>>>SAN MARTIN DE LAS PIRAMIDES",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "unidaddetransparenciasmp1921@gmial.com"
+  },
+  {
+    "cargo": "PRIMER REGIDOR",
+    "nombre": "FRANCISCO JAVIER",
+    "apaterno": "NUÑEZ",
+    "amaterno": "VALENZUELA",
+    "area": "15951>>>Primera Regiduria",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "NA"
+  },
+  {
+    "cargo": "TESORERO MUNICIPAL",
+    "nombre": "JAIME CESAR",
+    "apaterno": "HERANDEZ",
+    "amaterno": "AGUILAR",
+    "area": "15975>>>Tesoreria Municipal",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "tesoreria1921smp@hotmail.com"
+  },
+  {
+    "cargo": "CONTRALOR MUNICIPAL",
+    "nombre": "Ruben",
+    "apaterno": "López",
+    "amaterno": "Franco",
+    "area": "166>>>SAN MARTIN DE LAS PIRAMIDES",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "contraloriainternasmp1921@gmail.com"
+  },
+  {
+    "cargo": "SECRETARIO TECNICO",
+    "nombre": "JAVIER",
+    "apaterno": "JUAREZ",
+    "amaterno": "SALINAS",
+    "area": "15963>>>Secretaria Tecnica",
+    "fechaAlta": "16/01/2019",
+    "telefono": 5948582091,
+    "correo": "luisrodsmp1921@gmail.com"
+  },
+  {
+    "cargo": "SECRETARIO MUNICIPAL",
+    "nombre": "GERARDO",
+    "apaterno": "SANCHEZ",
+    "amaterno": "MARTINEZ",
+    "area": "15977>>>Secretaria del Ayuntamiento",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "smp.secretaria2019@gmail.com"
+  },
+  {
+    "cargo": "SINDICA MUNICIPAL",
+    "nombre": "MARIA GUADALUPE",
+    "apaterno": "MARTINEZ",
+    "amaterno": "AGUILAR",
+    "area": "15950>>>Sindicatura Municipal",
+    "fechaAlta": "15/01/2019",
+    "telefono": 5948582091,
+    "correo": "sindicasmp19@outlook.com"
+  },
+  {
+    "cargo": "PRESIDENTE MUNICIPAL",
+    "nombre": "ERIC",
+    "apaterno": "RUIZ",
+    "amaterno": "MEDINA",
+    "area": "15897>>>Presidencia Municipal",
+    "fechaAlta": "15/01/2019",
+    "telefono": "NA",
+    "correo": "presidenciapiramides1921@outlock.com"
+  },
+  {
+    "cargo": "DIRECTORA DE RECURSOS HUMANOS",
+    "nombre": "GALIA VIRIDIANA",
+    "apaterno": "SÁNCHEZ",
+    "amaterno": "MENDOZA",
+    "area": "16104>>>Direccion  de Recursos Humanos",
+    "fechaAlta": "01/01/2019",
+    "telefono": "5949582011 ext 107",
+    "correo": "recursoshumanos_smp2019"
+  },
+  {
+    "cargo": "Titular de la Unidad de Transparencia",
+    "nombre": "Sergio Daniel",
+    "apaterno": "Martínez",
+    "amaterno": "Núñez",
+    "area": "21416>>>Titular de la Unidad de Transparencia",
+    "fechaAlta": "01/01/2019",
+    "telefono": "5949582011 ext 121",
+    "correo": "sanmartindelaspiramides@itaipem.org.mx"
+  }
+]

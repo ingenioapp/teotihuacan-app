@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DataService } from '../api/data.service';
 
 @Component({
   selector: 'app-entretenimiento',
@@ -7,9 +8,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EntretenimientoPage implements OnInit {
 
-  constructor() { }
+  municipio: string;
+
+  constructor(private data: DataService) { }
 
   ngOnInit() {
+    this.data.currentMunicipio.subscribe(municipio => {
+      this.municipio = municipio;
+    });
   }
 
 }
