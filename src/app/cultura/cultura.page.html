@@ -8,5 +8,16 @@
 </ion-header>
 
 <ion-content padding>
-
+    <ion-card *ngFor="let c of cultura">
+        <ion-card-header>
+          <ion-card-subtitle>{{c.servicios}}</ion-card-subtitle>
+          <ion-card-title>{{c.titulo}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>   
+          {{c.descripcion}}<br/>
+          <b>Dirección:</b> {{c.direccion}} <br/>
+          <b>Telefono:</b> {{c.telefono}}<br/>
+          <b>Correo:</b> {{c.correo}}
+        </ion-card-content>
+      </ion-card>
 </ion-content>

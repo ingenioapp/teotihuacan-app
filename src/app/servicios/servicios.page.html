@@ -9,4 +9,15 @@
 
 <ion-content padding>
 
+    <ion-card *ngFor="let s of servicios">
+      <ion-card-header>
+        <ion-card-subtitle>{{s.razonSocial}}</ion-card-subtitle>
+        <ion-card-title>{{s.servicio}}</ion-card-title>
+      </ion-card-header>
+      <ion-card-content>   
+        <b>Dirección:</b> {{s.direccion}} <br/>
+        <b>Telefono:</b> {{s.telefono}}
+      </ion-card-content>
+    </ion-card>
+
 </ion-content>

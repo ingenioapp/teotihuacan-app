@@ -16,9 +16,9 @@ export class GobernantePage implements OnInit {
 
   ngOnInit() {
     this.data.currentMunicipio.subscribe(municipio => {
-      console.log('Municipio actual: ', municipio);
+      // console.log('Municipio actual: ', municipio);
       this.data.getGobernantes(municipio).subscribe(g => {
-        console.log('gobernantes: ', g);
+        // console.log('gobernantes: ', g);
         this.gobernantes = g;
       });
       this.municipio = municipio;

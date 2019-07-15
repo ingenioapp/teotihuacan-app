@@ -8,5 +8,16 @@
 </ion-header>
 
 <ion-content padding>
-
+    <ion-card *ngFor="let t of turismo">
+        <ion-card-header>
+          <ion-card-subtitle>{{t.razonSocial}}</ion-card-subtitle>
+          <ion-card-title>{{t.servicio}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>   
+          {{t.descripcion}}<br/>
+          <b>Dirección:</b> {{t.direccion}} <br/>
+          <b>Email:</b> {{t.email}} <br/>
+          <b>Telefono:</b> {{t.telefono}}
+        </ion-card-content>
+      </ion-card>
 </ion-content>

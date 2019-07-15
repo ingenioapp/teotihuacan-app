@@ -2,6 +2,9 @@ import { Injectable } from '@angular/core';
 import { BehaviorSubject} from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { Gobernante } from '../api/model/Gobernante';
+import { Servicio } from '../api/model/Servicio';
+import { Turismo } from './model/Turismo';
+import { Cultura } from './model/Cultura';
 
 @Injectable({
   providedIn: 'root'
@@ -30,6 +33,18 @@ export class DataService {
 
   public getGobernantes(municipio: string) {
       return this.http.get<Gobernante[]>('assets/' + municipio + '.json');
+  }
+
+  public getServicios(municipio: string) {
+    return this.http.get<Servicio[]>('assets/' + municipio + '-servicios.json');
+  }
+
+  public getTurismo(municipio: string) {
+    return this.http.get<Turismo[]>('assets/' + municipio + '-turismo.json');
+  }
+
+  public getCultura(municipio: string) {
+    return this.http.get<Cultura[]>('assets/' + municipio + '-cultura.json');
   }
 
   public getTextoByKey(key: string) {
